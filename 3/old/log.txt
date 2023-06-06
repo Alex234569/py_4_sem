@@ -1,0 +1,27 @@
+___Server started___
+___User with name 'laptop' with IP-address 127.0.0.1 is trying to connect___
+OUR_MIGHTY_SERVER: Hello, laptop!
+laptop: Hello, server!
+laptop: Bye, server!
+___User closed connection___
+___Server off___
+___Server started___
+___User with name 'PC' with IP-address 192.168.1.7 is trying to connect___
+OUR_MIGHTY_SERVER: Hello, PC!
+PC: Hello from PC!
+PC: Bye from PC!
+___User closed connection___
+___Server off___
+___Server started___
+___User with name 'PC' with IP-address 192.168.1.7 is trying to connect___
+OUR_MIGHTY_SERVER: Hello, PC!
+PC: hhh
+PC: hhhhh
+___User closed connection___
+___Server off___
+___Server started___
+___User with name 'PC' with IP-address 192.168.1.7 is trying to connect___
+OUR_MIGHTY_SERVER: Hello, PC!
+PC: KKKK
+___User closed connection___
+___Server off___

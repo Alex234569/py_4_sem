@@ -1,0 +1,70 @@
+2023-04-21 14:17:02.279734 Server started
+2023-04-21 14:17:09.792650 Connection attempt from IP 127.0.0.1
+2023-04-21 14:17:09.792878 User "laptop" authentication attempt
+2023-04-21 14:17:09.793374 User "laptop" successfully logged in
+2023-04-21 14:17:09.793591 Server message:
+Hello, laptop!
+2023-04-21 14:17:12.759125 User "laptop" message:
+Hello!
+2023-04-21 14:17:26.653547 User "laptop" message:
+time
+2023-04-21 14:17:26.653669 Server message:
+2023-04-21 14:17:26.653571
+2023-04-21 14:17:33.406066 User "laptop" message:
+whoami
+2023-04-21 14:17:33.406167 Server message:
+laptop
+2023-04-21 14:17:35.405011 User "laptop" message:
+quit
+2023-04-21 14:17:35.405049 User "laptop" closed connection
+2023-04-21 14:17:35.405071 Server closed
+2023-04-21 14:18:20.953943 Server started
+2023-04-21 14:18:53.243347 Connection attempt from IP 192.168.1.7
+2023-04-21 14:18:53.243490 User "PC" authentication attempt
+2023-04-21 14:18:53.243874 User "PC" successfully logged in
+2023-04-21 14:18:53.244037 Server message:
+Hello, PC!
+2023-04-21 14:18:56.004084 User "PC" message:
+Hello!
+2023-04-21 14:19:00.612156 User "PC" message:
+time
+2023-04-21 14:19:00.612396 Server message:
+2023-04-21 14:19:00.612244
+2023-04-21 14:19:04.707762 User "PC" message:
+whoami
+2023-04-21 14:19:04.707957 Server message:
+PC
+2023-04-21 14:19:07.472889 User "PC" message:
+quit
+2023-04-21 14:19:07.472957 User "PC" closed connection
+2023-04-21 14:19:07.472986 Server closed
+2023-04-21 14:20:00.969209 Server started
+2023-04-21 14:20:10.895670 Connection attempt from IP 127.0.0.1
+2023-04-21 14:20:10.895779 User "laptop" authentication attempt
+2023-04-21 14:20:10.896091 User "laptop" successfully logged in
+2023-04-21 14:20:10.896231 Server message:
+Hello, laptop!
+2023-04-21 14:20:20.229141 User "laptop" message:
+Hello!
+2023-04-21 14:20:22.956762 User "laptop" message:
+time
+2023-04-21 14:20:22.956935 Server message:
+2023-04-21 14:20:22.956798
+2023-04-21 14:21:49.214452 User "laptop" message:
+quit
+2023-04-21 14:21:49.214468 User "laptop" closed connection
+2023-04-21 14:21:49.214477 Server closed
+2023-05-15 14:01:24.654006 Server started
+2023-05-15 14:01:40.413190 Connection attempt from IP 127.0.0.1
+2023-05-15 14:01:40.413239 User "laptop" authentication attempt
+2023-05-15 14:01:40.416192 User "laptop" successfully logged in
+2023-05-15 14:01:40.416246 Server message:
+Hello, laptop!
+2023-05-15 14:01:43.820999 User "laptop" message:
+Hello!
+2023-05-15 14:01:46.885203 User "laptop" message:
+Bye!
+2023-05-15 14:01:48.473043 User "laptop" message:
+quit
+2023-05-15 14:01:48.473056 User "laptop" closed connection
+2023-05-15 14:01:48.473064 Server closed
